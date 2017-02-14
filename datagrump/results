@@ -1,0 +1,77 @@
+fsize = 100
+http://cs344g.keithw.org/report?glebouder-1485893168-ceefaico
+result = 4.76
+
+fsize = 60
+http://cs344g.keithw.org/report?glebouder-1485891709-xoreilie
+result = 6.89
+
+fsize = 50
+http://cs344g.keithw.org/report?glebouder-1485892100-bauxuago
+result = 7.88
+
+fsize = 20
+http://cs344g.keithw.org/report?glebouder-1485892100-bauxuago
+result = 11.87
+http://cs344g.keithw.org/report?glebouder-1487091647-uthouhai
+result = 11.88
+
+fsize = 15
+http://cs344g.keithw.org/report?glebouder-1487091981-aizierei
+result = 12.62
+http://cs344g.keithw.org/report?glebouder-1487092265-oogheshi
+result = 12.68
+
+fsize = 12
+http://cs344g.keithw.org/report?glebouder-1487092547-ahliegha
+result = 12.88
+
+fsize = 10
+http://cs344g.keithw.org/report?glebouder-1487092965-teiphudi
+result = 12.61
+
+fsize = 5
+http://cs344g.keithw.org/report?glebouder-1485892819-chahwaul
+result = 9.73
+
+
+
+AIMD Controller 1 (+1 /2)
+http://cs344g.keithw.org/report?glebouder-1487008073-coolohnu
+result = 4.14
+
+AIMD Controller 2 (+4 /2)
+http://cs344g.keithw.org/report?glebouder-1487008400-oozooliu
+result = 9.67
+
+AIMD Controller 3 (+4 /3)
+http://cs344g.keithw.org/report?glebouder-1487090795-fieruneu
+result = 10.07
+
+AIMD Controller 4 (+5 /3)
+http://cs344g.keithw.org/report?glebouder-1487091193-ahjouhob
+result = 10.47
+
+
+
+RTT Controller 1 (+2 -2) (100 , 400)
+http://cs344g.keithw.org/report?glebouder-1487096929-haishohl
+result = 1.02
+
+RTT Controller 2 (+3 -3) (100 , 400)
+http://cs344g.keithw.org/report?glebouder-1487097301-ilohshae
+result = 1.02
+
+RTT Controller 3 (+1 -5) (100 , 400)
+http://cs344g.keithw.org/report?glebouder-1487104982-afienees
+result = 0.72
+ 
+RTT Controller 4 (+1 -5) (20 , 100)
+http://cs344g.keithw.org/report?glebouder-1487105344-aejeital
+result = 2.64
+
+
+
+
+
+
